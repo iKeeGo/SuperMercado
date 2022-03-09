@@ -1,0 +1,14 @@
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.exe
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.deps.json
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.runtimeconfig.json
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.runtimeconfig.dev.json
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.dll
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\bin\Debug\netcoreapp3.1\SuperMercado.pdb
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.csproj.AssemblyReference.cache
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.AssemblyInfoInputs.cache
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.AssemblyInfo.cs
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.csproj.CoreCompileInputs.cache
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.dll
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.pdb
+C:\Users\DiegoPardo\source\repos\SuperMercado\SuperMercado\obj\Debug\netcoreapp3.1\SuperMercado.genruntimeconfig.cache
